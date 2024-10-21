@@ -1313,5 +1313,14 @@
     "SkipFreeSpaceCheckHelpText": "当 {appName} 无法检测到根目录的剩余空间时使用",
     "IndexerSettingsApiUrl": "API 地址",
     "IndexerSettingsApiUrlHelpText": "除非您知道自己在做什么，否则请勿更改此设置。 因为您的 API Key 将被发送到该主机。",
-    "LastSearched": "最近搜索"
+    "LastSearched": "最近搜索",
+    "AptUpdater": "使用apt安装更新",
+    "CancelPendingTask": "您确定要取消这个挂起的任务吗？",
+    "DockerUpdater": "更新Docker容器以更新应用",
+    "ExternalUpdater": "{appName}配置为使用外部更新机制",
+    "InstallLatest": "安装最新版",
+    "OnLatestVersion": "已安装最新版的{appName}",
+    "PreviouslyInstalled": "上次安装",
+    "Shutdown": "关机",
+    "UpdateAppDirectlyLoadError": "无法直接更新{appName}，"
 }

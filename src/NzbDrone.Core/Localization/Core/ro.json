@@ -780,5 +780,13 @@
     "UpdateAvailableHealthCheckMessage": "O nouă versiune este disponibilă: {version}",
     "DeleteSelectedCustomFormats": "Ștergeți formatul personalizat",
     "DeleteSelectedCustomFormatsMessageText": "Sigur doriți să ștergeți {count} clienți de descărcare selectați?",
-    "IncludeCustomFormatWhenRenaming": "Includeți format personalizat la redenumire"
+    "IncludeCustomFormatWhenRenaming": "Includeți format personalizat la redenumire",
+    "AptUpdater": "Utilizați apt pentru a instala actualizarea",
+    "CancelPendingTask": "Sigur doriți să anulați această sarcină în așteptare?",
+    "DockerUpdater": "Actualizați containerul Docker pentru a primi actualizarea",
+    "ExternalUpdater": "{appName} este configurat pentru a utiliza un mecanism de actualizare extern",
+    "InstallLatest": "Instalați cel mai recent",
+    "OnLatestVersion": "Cea mai recentă versiune a {appName} este deja instalată",
+    "Shutdown": "Oprește",
+    "UpdateAppDirectlyLoadError": "Imposibil de actualizat direct {appName},"
 }
