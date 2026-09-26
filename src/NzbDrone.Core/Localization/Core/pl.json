@@ -36,7 +36,7 @@
     "CreateEmptyArtistFoldersHelpText": "Utwórz brakujące foldery z filmami podczas skanowania dysku",
     "CreateGroup": "Utwórz grupę",
     "CutoffHelpText": "Po osiągnięciu tej jakości {appName} nie będzie już pobierał filmów",
-    "CutoffUnmet": "Próg nie spełnia wymagań",
+    "CutoffUnmet": "Warunek niespełniony",
     "Dates": "Format daty",
     "DatabaseMigration": "Migracja bazy danych",
     "DelayProfile": "Profil opóźnienia",
@@ -539,7 +539,7 @@
     "SelectQuality": "Wybierz jakość",
     "ShowAdvanced": "Pokaż zaawansowane",
     "SizeLimit": "Limit rozmiaru",
-    "SizeOnDisk": "Rozmiar dysku",
+    "SizeOnDisk": "Rozmiar na dysku",
     "SourceTitle": "Tytuł źródła",
     "System": "System",
     "Test": "Test",
@@ -1186,5 +1186,7 @@
     "IsExpandedShowFileInfo": "Pokaż informacje o pliku",
     "LatestAlbumData": "Monitoruj ostatnie albumy i przyszłe albumy",
     "MissingAlbums": "Brakujące albumy",
-    "NewAlbums": "Nowe albumy"
+    "NewAlbums": "Nowe albumy",
+    "AllowedHosts": "Dozwolone hosty",
+    "TrustedNetworks": "Zaufane sieci"
 }
